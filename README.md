@@ -4,3 +4,10 @@ KMS Stand for Key Management Service server.For those of you guys who don’t kn
 I have pasted some cmd app just download according to your office version and run as admin (Internet Required).
 Servers Used Of MS Guides.
 #if-you-like-my-work-you-donate-me-through-PaYtm:-9199214086 or you can buy me a plate of momos(add:- BH-2,BIT Mesra,Patna Campus) 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
